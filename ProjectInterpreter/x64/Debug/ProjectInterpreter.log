@@ -1,0 +1,36 @@
+﻿  BuiltInFunctions.cpp
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\BuiltInFunctions.cpp(85,87): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+  Interpreter.cpp
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Interpreter.cpp(85,64): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  main.cpp
+  Parser.cpp
+  Reader.cpp
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Reader.cpp(26,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Tokenizer.cpp
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Tokenizer.cpp(27,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Tokenizer.cpp(30,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Tokenizer.cpp(33,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Tokenizer.cpp(36,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Tokenizer.cpp(39,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Tokenizer.cpp(42,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Tokenizer.cpp(47,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Tokenizer.cpp(49,100): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Tokenizer.cpp(53,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Tokenizer.cpp(58,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Tokenizer.cpp(62,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Tokenizer.cpp(65,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Tokenizer.cpp(71,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Tokenizer.cpp(97,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Tokenizer.cpp(119,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  UserGeneratedFunctions.h
+  Generating Code...
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Parser.cpp(34): warning C4715: 'Parser::parseLine': not all control paths return a value
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Parser.cpp(216): warning C4715: 'Parser::parseList': not all control paths return a value
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\Interpreter.cpp(125): warning C4715: 'Interpreter::evaluateUserDefinedAST': not all control paths return a value
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\UserGeneratedFunctions.h(115): warning C4715: 'UserGeneratedFunctions::call': not all control paths return a value
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\BuiltInFunctions.cpp(99): warning C4715: 'BuiltInFunctions::head': not all control paths return a value
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\BuiltInFunctions.cpp(113): warning C4715: 'BuiltInFunctions::tail': not all control paths return a value
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\BuiltInFunctions.cpp(155): warning C4715: 'BuiltInFunctions::concat': not all control paths return a value
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\BuiltInFunctions.cpp(204): warning C4715: 'BuiltInFunctions::ifStmt': not all control paths return a value
+E:\Project_Interpreter\Project_72076\ProjectInterpreter\BuiltInFunctions.cpp(223): warning C4715: 'BuiltInFunctions::ifStmt': not all control paths return a value
+  ProjectInterpreter.vcxproj -> E:\Project_Interpreter\Project_72076\x64\Debug\ProjectInterpreter.exe
